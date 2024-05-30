@@ -43,7 +43,7 @@ const OverlayMenu = () => {
             {/* Logo */}
             <div className="flex justify-between items-center p-4 absolute w-full">
                 <a href="/">
-                    <img src="Logo.png" alt="logo" className="w-[120px] z-30 cursor-pointer" />
+                    <img src="/Logo.png" alt="logo" className="w-[120px] z-30 cursor-pointer" />
                 </a>
 
                 {/* Button Menu */}

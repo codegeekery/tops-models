@@ -19,7 +19,7 @@ const teamMembers = [
         name: "Elaine Gonzalez",
         role: "Casting Manager",
         description: "Elaine Gonzalez is a native Miamian and has been in casting since 1990. Her love of the arts and actors has contributed to her success in casting. She has an undergraduate degree from the University of Miami.",
-        image: "/gallery1.jpg",
+        image: "/Gallery1.jpg",
         socials: {
             facebook: "#",
             twitter: "#",
@@ -30,7 +30,7 @@ const teamMembers = [
         name: "Laura Lorens",
         role: "Casting Manager",
         description: "Laura Lorens is a graduate of Florida State University with a B.A. in Advertising. She has been with Lori Wyman Casting since 1995 when she started as an intern in her senior year of college. She loves being a part of bringing Florida.",
-        image: "/gallery1.jpg",
+        image: "/Gallery1.jpg",
         socials: {
             facebook: "#",
             twitter: "#",
@@ -41,7 +41,7 @@ const teamMembers = [
         name: "Jesscia Barnes",
         role: "Casting Manager",
         description: "Jesscia Barnes is a native Miamian and has been in casting since 1992. Her love of the arts and actors has contributed to her success in casting. She has an undergraduate degree from the University of Miami.",
-        image: "/gallery1.jpg",
+        image: "/Gallery1.jpg",
         socials: {
             facebook: "#",
             twitter: "#",
