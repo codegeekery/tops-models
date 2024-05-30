@@ -85,7 +85,7 @@ export default function Home() {
             <div className="relative flex flex-col items-center">
               <p className="text-foreground z-20 text-xl md:text-xl lg:text-3xl uppercase">A collection of films models</p>
               <div className="absolute top-[-78px] z-10">
-                <img src="Blutter.png" alt="arrow" className="w-full" />
+                <img src="/blutter.png" alt="arrow" className="w-full" />
               </div>
             </div>
           </div>
