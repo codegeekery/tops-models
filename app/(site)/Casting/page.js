@@ -50,8 +50,6 @@ const teamMembers = [
     },
 ];
 
-
-
 const InputField = ({ type, placeholder, name, value, onChange, errors }) => (
     <div className="w-full">
         <input
@@ -87,7 +85,6 @@ const CheckboxField = ({ label, name, checked, onChange, errors }) => (
         </div>
     </>
 );
-
 
 export default function Casting() {
 
@@ -170,7 +167,6 @@ export default function Casting() {
                 break
         }
     }
-
 
     // Form Configuration Component
     const inputFieldsConfig = [
